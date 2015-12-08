@@ -1,0 +1,29 @@
+{
+  "name": "ember-cli-d3-shape-shim",
+  "version": "0.1.0",
+  "description": "Provides a loader for using d3-shape in Ember CLI apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanvanderbyl/ember-cli-d3-shape-shim"
+  },
+  "keywords": [
+    "ember-addon",
+    "d3",
+    "d3-shape",
+    "addon",
+    "svg"
+  ],
+  "author": "Ivan Vanderbyl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanvanderbyl/ember-cli-d3-shape-shim/issues"
+  },
+  "homepage": "https://github.com/ivanvanderbyl/ember-cli-d3-shape-shim",
+  "dependencies": {
+    "d3-shape": "^0.1.0"
+  }
+}
