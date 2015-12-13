@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/ivanvanderbyl/ember-cli-d3-shape-shim",
   "dependencies": {
+    "d3-shape": "^0.2.0",
     "ember-cli-d3-path-shim": "ivanvanderbyl/ember-cli-d3-path-shim"
   }
 }
