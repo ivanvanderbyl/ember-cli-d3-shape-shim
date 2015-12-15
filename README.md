@@ -1,3 +1,6 @@
+*DEPRECATED*
+Use [ember-cli-d3-primitive](https://github.com/ivanvanderbyl/ember-cli-d3-primitive)
+
 # Ember D3 Shape shim
 
 Provides a loader for using d3-shape in Ember CLI apps.
